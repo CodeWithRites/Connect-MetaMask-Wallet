@@ -1,4 +1,4 @@
-# Connect Metamask Wallet ( or any wallet to your ReactJS app
+# Connect Metamask Wallet
 
 
 
